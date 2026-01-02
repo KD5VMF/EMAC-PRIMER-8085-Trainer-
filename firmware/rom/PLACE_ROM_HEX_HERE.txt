@@ -1,5 +1,0 @@
-Place your ROM image here as:
-
-  EMOS_200_M48T35_SAFE_v2025.hex
-
-(This repo does not include the ROM hex binary.)
